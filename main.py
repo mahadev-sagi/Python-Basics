@@ -1,0 +1,2 @@
+message = 'cars'
+print(message)
